@@ -16,6 +16,7 @@
 		24F79B711D3FB62D006B3817 /* 20-DS11WB(消失动画).zip in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B701D3FB62D006B3817 /* 20-DS11WB(消失动画).zip */; };
 		24F79B731D3FB8D3006B3817 /* UIView+Extension.swift.zip in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B721D3FB8D3006B3817 /* UIView+Extension.swift.zip */; };
 		24F79B751D3FB97D006B3817 /* 音频播放.html in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B741D3FB97D006B3817 /* 音频播放.html */; };
+		24F79B771D3FBB0D006B3817 /* 屏幕快照 2016-07-20 下午9.58.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B761D3FBB0D006B3817 /* 屏幕快照 2016-07-20 下午9.58.10.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		24F79B701D3FB62D006B3817 /* 20-DS11WB(消失动画).zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "20-DS11WB(消失动画).zip"; sourceTree = "<group>"; };
 		24F79B721D3FB8D3006B3817 /* UIView+Extension.swift.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "UIView+Extension.swift.zip"; sourceTree = "<group>"; };
 		24F79B741D3FB97D006B3817 /* 音频播放.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "音频播放.html"; sourceTree = "<group>"; };
+		24F79B761D3FBB0D006B3817 /* 屏幕快照 2016-07-20 下午9.58.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-07-20 下午9.58.10.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 		24F79B581D3FB606006B3817 /* 11微博 */ = {
 			isa = PBXGroup;
 			children = (
+				24F79B761D3FBB0D006B3817 /* 屏幕快照 2016-07-20 下午9.58.10.png */,
 				24F79B721D3FB8D3006B3817 /* UIView+Extension.swift.zip */,
 				24F79B741D3FB97D006B3817 /* 音频播放.html */,
 				24F79B5C1D3FB606006B3817 /* AppDelegate.h */,
@@ -151,6 +154,7 @@
 				24F79B641D3FB606006B3817 /* Main.storyboard in Resources */,
 				24F79B731D3FB8D3006B3817 /* UIView+Extension.swift.zip in Resources */,
 				24F79B751D3FB97D006B3817 /* 音频播放.html in Resources */,
+				24F79B771D3FBB0D006B3817 /* 屏幕快照 2016-07-20 下午9.58.10.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
