@@ -14,6 +14,7 @@
 		24F79B661D3FB606006B3817 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B651D3FB606006B3817 /* Assets.xcassets */; };
 		24F79B691D3FB606006B3817 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B671D3FB606006B3817 /* LaunchScreen.storyboard */; };
 		24F79B711D3FB62D006B3817 /* 20-DS11WB(消失动画).zip in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B701D3FB62D006B3817 /* 20-DS11WB(消失动画).zip */; };
+		24F79B731D3FB8D3006B3817 /* UIView+Extension.swift.zip in Resources */ = {isa = PBXBuildFile; fileRef = 24F79B721D3FB8D3006B3817 /* UIView+Extension.swift.zip */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		24F79B681D3FB606006B3817 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24F79B6A1D3FB606006B3817 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24F79B701D3FB62D006B3817 /* 20-DS11WB(消失动画).zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "20-DS11WB(消失动画).zip"; sourceTree = "<group>"; };
+		24F79B721D3FB8D3006B3817 /* UIView+Extension.swift.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "UIView+Extension.swift.zip"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		24F79B581D3FB606006B3817 /* 11微博 */ = {
 			isa = PBXGroup;
 			children = (
+				24F79B721D3FB8D3006B3817 /* UIView+Extension.swift.zip */,
 				24F79B5C1D3FB606006B3817 /* AppDelegate.h */,
 				24F79B701D3FB62D006B3817 /* 20-DS11WB(消失动画).zip */,
 				24F79B5D1D3FB606006B3817 /* AppDelegate.m */,
@@ -143,6 +146,7 @@
 				24F79B661D3FB606006B3817 /* Assets.xcassets in Resources */,
 				24F79B711D3FB62D006B3817 /* 20-DS11WB(消失动画).zip in Resources */,
 				24F79B641D3FB606006B3817 /* Main.storyboard in Resources */,
+				24F79B731D3FB8D3006B3817 /* UIView+Extension.swift.zip in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
